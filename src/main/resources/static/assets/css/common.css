@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.toolbar {
+    margin: 0 0 4px;
+}
+
+a:link, a:visited {
+    background: none;
+    text-decoration: none;
+}
+
+i.close-btn {
+    cursor: pointer;
+}
+
+
+.table_list_box{
+    table-layout:fixed !important;
+}
